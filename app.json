@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/ZauteKm",
-    "repository": "https://github.com/tgbotsProject/Auto-Filter-Bot",
+    "repository": "https://github.com/thilak200318/auto-filter-bot/blob/master/app.json",
     "success_url": "https://telegram.dog/tgbotsProject",
     "env": {
         "APP_ID": {
